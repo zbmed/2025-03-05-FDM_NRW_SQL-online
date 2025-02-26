@@ -6,14 +6,14 @@ country: "DE"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "50.937531"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "6.960279"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Oct 7, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Mar 5, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00 - 13:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2024-10-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-10-07        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2025-03-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2025-03-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Rabea Müller"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBA"]   # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: [""]   # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["muellerr@zbmed.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.gwdg.de/FPCapYtFQGGS7sCTknhi4w # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.gwdg.de/1c3P3bWeQMu0lwIK4BzG7w # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
